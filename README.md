@@ -17,5 +17,5 @@ or Run by docker compose
 
 test
 
-or build docker build .
+or build docker build . -t node-todo
 
