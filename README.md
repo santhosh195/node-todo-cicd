@@ -19,3 +19,5 @@ test
 
 or build docker build . -t node-todo
 
+or build docker build
+
